@@ -12,7 +12,7 @@ author: dtkhoa1205
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "CV"
+  About Me: "cv"
   Resources:
     - Beautiful Jekyll: "https://dtkhoa1205.github.io/khoa.github.io/"
     - Learn markdown: "https://www.markdowntutorial.com/"
